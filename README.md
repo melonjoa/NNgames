@@ -8,7 +8,7 @@ NNgames
   박소림 - <br>
   김서정 - <br>
   김영민 - <br>
-  손영도 - <br>
+  손영도 - Github : https://github.com/melonjoa<br>
   박준호 - Github : https://github.com/Moulru<br>
 # 프로젝트기간 <br>
 22.05.17 ~ 22.07.01
